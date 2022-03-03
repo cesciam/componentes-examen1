@@ -5,7 +5,7 @@ public class EncryptVignere implements IEncripta {
     @Override
     public String encripta(String texto) {
         String res = "";
-        //texto = texto.toUpperCase();
+        texto = texto.toUpperCase();
         for (int i = 0, j = 0; i < texto.length(); i++) {
             char c = texto.charAt(i);
             if (c < 'A' || c > 'Z') continue;
@@ -18,7 +18,7 @@ public class EncryptVignere implements IEncripta {
     @Override
     public String desencripta(String texto) {
         String res = "";
-        //texto = texto.toUpperCase();
+        texto = texto.toUpperCase();
         for (int i = 0, j = 0; i < texto.length(); i++) {
             char c = texto.charAt(i);
             if (c < 'A' || c > 'Z') continue;
