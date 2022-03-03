@@ -19,16 +19,16 @@ Desencriptado:
 Prueba con Cifrado de Cesar
 
 <p align="center">
-  <img src="img/bean-Cesar.png?raw=true" alt="Bean-Cesar"/>
+  <img src="img/bean-cesar.png?raw=true" alt="Bean-Cesar"/>
 </p>
 
 Encriptado:
 
 <p align="center">
-  <img src="img/encripta-Cesar.png?raw=true" alt="encripta-Cesar"/>
+  <img src="img/encripta-cesar.png?raw=true" alt="encripta-Cesar"/>
 </p>
 Desencriptado:
 
 <p align="center">
-  <img src="img/desencripta-Cesar.png?raw=true" alt="encripta-Cesar"/>
+  <img src="img/desencripta-cesar.png?raw=true" alt="encripta-Cesar"/>
 </p>
